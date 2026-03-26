@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { MessageCircle, Instagram, Facebook, Twitter } from 'lucide-react';
-import logo from 'figma:asset/41b3c736b89ddd8d9b55b7b7c4d5ee297decb173.png';
+import logo from '@/asset/41b3c736b89ddd8d9b55b7b7c4d5ee297decb173.png';
 
 export function Footer() {
   const handleWhatsAppClick = () => {

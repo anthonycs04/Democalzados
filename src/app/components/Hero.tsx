@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
-import logo from 'figma:asset/41b3c736b89ddd8d9b55b7b7c4d5ee297decb173.png';
-import heroImage from 'figma:asset/7cde0dfda88b2be5c5eac7e5db5a6996bc41330d.png';
+import logo from '@/assets/41b3c736b89ddd8d9b55b7b7c4d5ee297decb173.png';
+import heroImage from '@/assets/7cde0dfda88b2be5c5eac7e5db5a6996bc41330d.png';
 
 export function Hero() {
   const handleWhatsAppClick = () => {

@@ -1,7 +1,7 @@
 import { motion } from 'motion/react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { ProductCard } from './ProductCard';
-import productImage from 'figma:asset/7cde0dfda88b2be5c5eac7e5db5a6996bc41330d.png';
+import productImage from '@/assets/7cde0dfda88b2be5c5eac7e5db5a6996bc41330d.png';
 
 const products = [
   {
